@@ -1,7 +1,7 @@
 
 # How to run this app in your local pc
 
-After forking
+After cloning my repository
 In the project directory, you can run:
 
 ### `npm install`
